@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "iyanBase"
-  text: "Page"
+  text: "Page1"
   tagline: My great project tagline
   actions:
     - theme: brand
