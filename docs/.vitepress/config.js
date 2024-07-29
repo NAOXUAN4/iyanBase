@@ -2,7 +2,7 @@
 
 export default({
   // 站点基本路径，应与你的 GitHub 仓库名称一致
-  base: '/iyanBase/',
+  base: '#/iyanBase/',
 
   // 站点标题
   title: '我的博客',
