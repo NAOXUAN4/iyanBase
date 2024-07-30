@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "iyanBase"
-  text: "Page1"
-  tagline: My great project tagline
+  name: "iyanLibrary"
+  text: "施工中....🚧🚧🚧"
+  tagline: 🥰🥰
+  image: "logoYian.png"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速阅读
+      link: /articles
     - theme: alt
-      text: API Examples
+      text: 目录
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 笔记本📒
+    details: 快速全局查找笔记
+  - title: 文本库📚
+    details: 文本集中地
+  - title: 杂物堆🫎
+    details: 无限仓库
 ---
+
 
